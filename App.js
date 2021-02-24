@@ -3,6 +3,7 @@ import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 //make
 //make some changes
+//made initl=al
 export default function App() {
   return (
     <View style={styles.container}>
